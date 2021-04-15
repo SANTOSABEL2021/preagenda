@@ -1,0 +1,75 @@
+.painel{
+	width: 90%;
+	height: 20%;
+	
+	padding:10px;
+	margin-bottom: 10px;
+	box-shadow: 5px 5px 5px blue;
+	color: blue;
+	
+}
+
+a{
+	text-decoration: none;
+	color: blue;
+
+}
+
+.descricao{
+	font-size: 14px;
+	font-family: cursive;
+	
+}
+
+.conteiner{
+	width: 90%;
+	
+	
+	padding: 10px;
+
+}
+
+.lado{
+	width: 10%;
+	height: 450px;
+	
+	float: left;
+	margin-left: 10px;
+}
+
+.area{
+	width: 85%;
+	
+	float:left;
+	margin-left: 10px;
+	padding: 5px;
+
+}
+
+.item{
+	width: 80%;
+	padding: 2px;
+	margin: 10px;
+	background-color: #D3D3D3;
+	text-align: center;
+
+	box-shadow: 5px 5px 5px blue;
+}
+
+.conteudo{
+	padding: 5px;
+}
+
+table tr td {
+	 border: solid 1px blue;
+	 background-color: silver;
+	 color: black; 
+	 padding: 3px;
+	 font-size: 14px;
+}
+
+img {
+
+	width: 100px;
+	height: 100px;
+}
